@@ -6,4 +6,6 @@
   
 **目录**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;腾讯视频的web端的轮播图展示。
+&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;腾讯视频的web端的轮播图展示。  
+
+&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;纯css实现文字组成肖像特效
