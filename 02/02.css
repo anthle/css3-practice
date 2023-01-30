@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    overflow: hidden;
+}
+p{
+    width: 1000px;
+    height: 1000px;
+    border: solid 1px red;
+    overflow: hidden;
+    background: url(./images/luobin.jpg) no-repeat;
+    font-size: 14px;
+    line-height: 14px;
+    margin: 0  auto;
+    /* 让文字的前背景变成区块的背景 */
+    -webkit-background-clip: text;
+    /* 将文字透明镂空 */
+    -webkit-text-fill-color: transparent;
+    /* 灰度滤镜（转成黑白） */
+    /* filter: grayscale(1); */
+}
