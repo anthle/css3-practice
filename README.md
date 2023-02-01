@@ -8,4 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;腾讯视频的web端的轮播图展示。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;纯css实现文字组成肖像特效
+&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;纯css实现文字组成肖像特效。
+
+&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;纯css实现锚点平滑过渡。
+
+&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;不一样的超链接下划线。
