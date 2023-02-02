@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    background-color: rgba(0, 0, 0, .75);
 }
 .container{
     width: 100%;
@@ -22,4 +23,26 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
+    filter: blur(6px);
+}
+.image::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+}
+.cursor{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    border-radius: 50%;
+    border: 8px solid rgba(255, 255, 255, 0.3);
+    top: 0;
+    background-image: url(images/camera.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
