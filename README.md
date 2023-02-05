@@ -16,4 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;霜雾玻璃图片预览特效。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;圆形剪切图片光标悬停特效。
+&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;圆形剪切图片光标悬停特效。  
+
+&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;左右摇晃的输入框。
