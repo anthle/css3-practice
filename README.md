@@ -14,4 +14,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;不一样的超链接下划线。
 
-&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;霜雾玻璃图片预览特效。
+&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;霜雾玻璃图片预览特效。  
+
+&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;圆形剪切图片光标悬停特效。
