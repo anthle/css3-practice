@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  width: 270px;
+}
+.input-box {
+  width: 650px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 200px;
+}
+.input-box input {
+  flex: 1;
+  border: 2px solid #c4c7ce;
+  border-radius: 10px 0 0 10px;
+}
+.input-box button {
+  width: 108px;
+  height: 44px;
+  color: #fff;
+  background-color: #4e6ef2;
+  border: none;
+  border-radius: 0 10px 10px 0;
+  font-size: 17px;
+}
+.switch {
+  width: 60px;
+  height: 30px;
+  border: 1px solid #c4c7ce;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 6px;
+  cursor: pointer;
+  position: fixed;
+  top: 15px;
+  right: 15px;
+}
+.switch::before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #4e6ef2;
+  position: absolute;
+  left: 3px;
+  transition: all 0.2s ease-out;
+}
+.switch.dark::before {
+  left: 30px;
+}
+.switch .fa {
+  font-size: 18px;
+  color: #aaa;
+}
