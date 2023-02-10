@@ -19,3 +19,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;圆形剪切图片光标悬停特效。  
 
 &nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;左右摇晃的输入框。
+
+&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;一键切换主题颜色。
