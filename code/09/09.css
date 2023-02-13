@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  color: #fff;
+  font-size: 80px;
+  /* 文字大些 不加befor的会是小写的 */
+  text-transform: uppercase;
+  font-weight: bolder;
+  position: relative;
+}
+.container::before {
+  content: "Hello World";
+  color: yellow;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 60px;
+  border-right: 5px solid #eeea06;
+  /* 添加move动画效果 */
+  animation: move 5s linear infinite;
+  /* 光晕效果 */
+  filter: drop-shadow(0 0 50px #eeea06);
+}
+
+@keyframes move {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
