@@ -21,3 +21,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;左右摇晃的输入框。
 
 &nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;一键切换主题颜色。
+
+&nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;文字涂抹动画。
