@@ -25,3 +25,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;文字涂抹动画。
 
 &nbsp;&nbsp;&nbsp;&nbsp;10.&nbsp;人物介绍卡片。
+
+&nbsp;&nbsp;&nbsp;&nbsp;11.&nbsp;可拖拽排序的人物列表。
