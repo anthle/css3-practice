@@ -35,3 +35,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;14.&nbsp;阿里云盘的侧边导航栏。
 
 &nbsp;&nbsp;&nbsp;&nbsp;15.&nbsp;双层波浪动画特效。
+
+&nbsp;&nbsp;&nbsp;&nbsp;16.&nbsp;Auto Text Effect。
