@@ -36,4 +36,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;15.&nbsp;双层波浪动画特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;16.&nbsp;音乐可视化。
+&nbsp;&nbsp;&nbsp;&nbsp;16.&nbsp;Auto Text Effect。
+
+&nbsp;&nbsp;&nbsp;&nbsp;17.&nbsp;音乐可视化。
