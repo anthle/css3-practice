@@ -45,3 +45,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;19.&nbsp;按钮确认动画。
 
 &nbsp;&nbsp;&nbsp;&nbsp;20.&nbsp;css 文字特效。
+
+&nbsp;&nbsp;&nbsp;&nbsp;21.&nbsp;纯 css 实现轮播图。
