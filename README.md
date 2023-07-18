@@ -2,48 +2,54 @@
 
 **介绍**
 
-&nbsp;&nbsp;&nbsp;&nbsp;html,css,加一点 vue 的小实例。
+html,css,加一点 vue 的小实例。
 
 **目录**
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;腾讯视频的 web 端的轮播图展示。
+    1.腾讯视频的web端的轮播图展示。
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;纯 css 实现文字组成肖像特效。
+    2.纯css实现文字组成肖像特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;纯 css 实现锚点平滑过渡。
+    3.纯css实现锚点平滑过渡。
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;不一样的超链接下划线。
+    4.不一样的超链接下划线。
 
-&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;霜雾玻璃图片预览特效。
+    5.霜雾玻璃图片预览特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;圆形剪切图片光标悬停特效。
+    6.圆形剪切图片光标悬停特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;左右摇晃的输入框。
+    7.左右摇晃的输入框。
 
-&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;一键切换主题颜色。
+    8.一键切换主题颜色。
 
-&nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;文字涂抹动画。
+    9.文字涂抹动画。
 
-&nbsp;&nbsp;&nbsp;&nbsp;10.&nbsp;人物介绍卡片。
+    10.人物介绍卡片。
 
-&nbsp;&nbsp;&nbsp;&nbsp;11.&nbsp;可拖拽排序的人物列表。
+    11.可拖拽排序的人物列表。
 
-&nbsp;&nbsp;&nbsp;&nbsp;12.&nbsp;3d-boxes-background。
+    12.3d-boxes-background。
 
-&nbsp;&nbsp;&nbsp;&nbsp;13.&nbsp;Animated Countdown。
+    13.Animated Countdown。
 
-&nbsp;&nbsp;&nbsp;&nbsp;14.&nbsp;阿里云盘的侧边导航栏。
+    14.阿里云盘的侧边导航栏。
 
-&nbsp;&nbsp;&nbsp;&nbsp;15.&nbsp;双层波浪动画特效。
+    15.双层波浪动画特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;16.&nbsp;Auto Text Effect。
+    16.Auto Text Effect。
 
-&nbsp;&nbsp;&nbsp;&nbsp;17.&nbsp;音乐可视化。
+    17.音乐可视化。
 
-&nbsp;&nbsp;&nbsp;&nbsp;18.&nbsp;Parallax Scrolling Website。
+    18.Parallax Scrolling Website。
 
-&nbsp;&nbsp;&nbsp;&nbsp;19.&nbsp;按钮确认动画。
+    19.按钮确认动画。
 
-&nbsp;&nbsp;&nbsp;&nbsp;20.&nbsp;css 文字特效。
+    20.css文字特效。
 
-&nbsp;&nbsp;&nbsp;&nbsp;21.&nbsp;纯 css 实现轮播图。
+    21.纯css实现轮播图。
+
+    22.创意修剪路径图像悬停效果。
+
+    23.灵动的流边开关切换效果。
+
+    24.全屏背景切换动画。
